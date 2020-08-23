@@ -7,3 +7,4 @@
 
 
 ## Paper
+[Paper](going_fishing_raspberry_pi.pdf)
