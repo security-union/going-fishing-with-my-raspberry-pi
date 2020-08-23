@@ -9,8 +9,9 @@ Sessions contained all kinds of ssh interactions: trojans, rootkits, and even fr
 I also stored more than 1 week of network traffic, our little raspberry PI interacted with more than 8000 IP addresses.
 
 My mission in this paper is to analyze thread data, including network data, session logs, and how honeypots can be leveraged to understand threads. I will also propose some mitigation strategies that could be implemented at the ssh server and OS levels.
-## YouTube Video
 
+## YouTube Video
+[YouTube](https://youtu.be/CKlYujoDQZ8)
 
 ## Paper
 [Paper](going_fishing_raspberry_pi.pdf)
